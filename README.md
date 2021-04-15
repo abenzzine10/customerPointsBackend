@@ -39,17 +39,25 @@ npm install
 - [React Table](https://js.coach/package/react-table) component to create the table of customers and purchases with sorting, filtering, and pagination.
 
 **Filtering purchases by first name of customers**
+
 ![Screen Shot 2021-04-15 at 1 13 01 AM](https://user-images.githubusercontent.com/54524081/114822966-75a82900-9d88-11eb-98cc-b4da5d791ae1.png)
 
 **Sorting purchases by total points**
+
 ![Screen Shot 2021-04-15 at 1 13 51 AM](https://user-images.githubusercontent.com/54524081/114823223-d2a3df00-9d88-11eb-8a6c-11354faf2c57.png)
 
 - [React CSV](https://js.coach/package/react-csv) component to export the tables as ".csv" files.
 
 **Exporting a ".csv" file of the customers and their points**
+
 ![Screen Shot 2021-04-15 at 1 15 16 AM](https://user-images.githubusercontent.com/54524081/114823304-f2d39e00-9d88-11eb-9b24-7777e0a73fa7.png)
 
 - [React Router](https://reactrouter.com/) links to the points and purchases tables.
+
+## Things to improve
+- Add authentication and tokenization to secure the API
+- Add more endpoints to API
+- Improve the UI (filtering and sorting)
 
 ## Author
 Ayoub Benzzine
